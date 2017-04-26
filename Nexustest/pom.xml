@@ -17,9 +17,9 @@
   </dependencies>
 
   <distributionManagement>
-   <Repository>
+   <repository>
       <id>prod</id>
       <url>http://ec2-52-40-122-150.us-west-2.compute.amazonaws.com:8081/repository/maven-releases/</url>
-   </Repository>
+   </repository>
 </distributionManagement>
 </project>
